@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contáctanos on DSAUDE | Tu clínica de fisioterapia de confianza</title>
+    <link>https://radiocortello.github.io/contact/</link>
+    <description>Recent content in Contáctanos on DSAUDE | Tu clínica de fisioterapia de confianza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language><atom:link href="https://radiocortello.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto y Ubicación</title>
+      <link>https://radiocortello.github.io/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radiocortello.github.io/contact/contact/</guid>
+      <description>Encuéntranos en el corazón de la ciudad. Estamos aquí para ayudarte a empezar tu camino hacia el bienestar. A continuación, encontrarás todos los detalles para visitarnos o ponerte en contacto con nuestro equipo.</description>
+    </item>
+    
+  </channel>
+</rss>

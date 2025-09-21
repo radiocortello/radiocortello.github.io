@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dSaude Blog on DSAUDE | Tu clínica de fisioterapia de confianza</title>
+    <link>https://radiocortello.github.io/blog/</link>
+    <description>Recent content in dSaude Blog on DSAUDE | Tu clínica de fisioterapia de confianza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://radiocortello.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
